@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZaneBennett
 - 👀 I’m interested in ... Game Development.
-- 🌱 I’m currently learning ... Object-Oriented Programming in C#.
+- 🌱 I’m currently learning ... Data Structures and Algorithms in Java.
 - 💞️ I’m looking to collaborate on ... Game Design.
 - 📫 How to reach me ... via email, at zanebennett9001@gmail.com
 
